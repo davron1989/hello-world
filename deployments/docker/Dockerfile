@@ -1,8 +1,8 @@
 ## Build the image based python3
-FORM python3
+FROM python3
 
 ## Copy all the packages
-COPY ./app
+COPY . /app
 
 ## Change the default folder
 WORKDIR /app
