@@ -1,5 +1,5 @@
 ## Build the image based python3
-FROM python3
+FROM python:3
 
 ## Copy all the packages
 COPY . /app
