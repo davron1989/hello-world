@@ -1,0 +1,6 @@
+credentials = "fuchicorp-service-account.json"
+google_bucket_name = "davron89-bucket2"
+deployment_name = "common_tools"
+google_project_id = "helical-tendril-291118"
+google_domain_name = "davrononline.com"
+deployment_environment = "stage"
